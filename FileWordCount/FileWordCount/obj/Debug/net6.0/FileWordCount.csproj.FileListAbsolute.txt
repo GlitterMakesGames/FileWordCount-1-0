@@ -1,0 +1,15 @@
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\bin\Debug\net6.0\FileWordCount.exe
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\bin\Debug\net6.0\FileWordCount.deps.json
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\bin\Debug\net6.0\FileWordCount.runtimeconfig.json
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\bin\Debug\net6.0\FileWordCount.dll
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\bin\Debug\net6.0\FileWordCount.pdb
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.csproj.AssemblyReference.cache
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.AssemblyInfoInputs.cache
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.AssemblyInfo.cs
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.csproj.CoreCompileInputs.cache
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.dll
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\refint\FileWordCount.dll
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.pdb
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\FileWordCount.genruntimeconfig.cache
+C:\Users\Delaina\source\repos\FileWordCount\FileWordCount\obj\Debug\net6.0\ref\FileWordCount.dll
